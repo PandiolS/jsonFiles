@@ -2,53 +2,53 @@
   "data": [
   {
   "id": "AL",  
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 }, {
   "id": "AT",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "DE",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "BA",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "HR",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "GR",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "HU",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "IT",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },{
   "id": "XK",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "ME",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "RO",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "RS",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 },
 {
   "id": "SI",
-  "fill": this.visitedColor
+  "fill": "#5bba57"
 }
 ]
 }
