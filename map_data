@@ -1,0 +1,54 @@
+{
+  "data": [
+  {
+  "id": "AL",  
+  "fill": this.visitedColor
+}, {
+  "id": "AT",
+  "fill": this.visitedColor
+},
+{
+  "id": "DE",
+  "fill": this.visitedColor
+},
+{
+  "id": "BA",
+  "fill": this.visitedColor
+},
+{
+  "id": "HR",
+  "fill": this.visitedColor
+},
+{
+  "id": "GR",
+  "fill": this.visitedColor
+},
+{
+  "id": "HU",
+  "fill": this.visitedColor
+},
+{
+  "id": "IT",
+  "fill": this.visitedColor
+},{
+  "id": "XK",
+  "fill": this.visitedColor
+},
+{
+  "id": "ME",
+  "fill": this.visitedColor
+},
+{
+  "id": "RO",
+  "fill": this.visitedColor
+},
+{
+  "id": "RS",
+  "fill": this.visitedColor
+},
+{
+  "id": "SI",
+  "fill": this.visitedColor
+}
+]
+}
