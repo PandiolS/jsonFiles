@@ -1,5 +1,6 @@
 
 {
+  {
   "id": "AL",  
   "fill": this.visitedColor
 }, {
@@ -48,4 +49,5 @@
 {
   "id": "SI",
   "fill": this.visitedColor
+}
 }
