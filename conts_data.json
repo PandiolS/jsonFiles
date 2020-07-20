@@ -2,7 +2,8 @@
   "conts": [
   {
   "id": "1",  
-  "name": "Europe"
+  "name": "Europe",
+  "img": "eu.jpg"
 }
 ]
 }
