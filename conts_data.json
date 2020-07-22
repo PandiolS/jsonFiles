@@ -18,6 +18,6 @@
 {"id":"11","name":"Italy","img":"it.png","cont":"Europe"},
 {"id":"12","name":"Hungary","img":"hu.png","cont":"Europe"},
 {"id":"13","name":"Romania","img":"ro.png","cont":"Europe"},
-{"id":"14","name":"Vatican City","img":"va.png","cont":"Europe"}
+{"id":"14","name":"Vatican City","img":"va.jpg","cont":"Europe"}
 ]
 }
