@@ -1,4 +1,9 @@
 {
+"conts":
+[
+{"id":"1","name":"Europe","img":"eu.png"}
+],
+
 "cities":
 [
 {
@@ -17,4 +22,3 @@
 
 ]
 }
-
