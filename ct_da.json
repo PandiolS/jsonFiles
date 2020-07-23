@@ -2,16 +2,14 @@
 "cities":
 [
 {
-"country":{
-"name":"Italy",
-"img":"it.png",
+"country":{"name":"Italy","img":"it.png","fl":"it",
 "cities":[
 {"name":"Rome"},
 {"name":"Turin"}
 ]}
 },
 
-{"country":{"name":"Germany","img":"de.png",
+{"country":{"name":"Germany","img":"de.png","fl":"de",
 "cities":[
 {"name":"Munich"}
 ]}
