@@ -99,13 +99,13 @@
 ]}
 },
 
-{"country":{"name":"Vatican City","img":"va.png","fl":"va",
+{"country":{"name":"Vatican City","img":"va.jpg","fl":"va",
 "cities":[
 {"name":"Vatican City"}
 ]}
 },
 
-{"country":{"name":"Bosnia & Herzegovina","img":"ba.png","fl":"ba",
+{"country":{"name":"Bosnia & Herzegovina","img":"bh.png","fl":"ba",
 "cities":[
 {"name":"Medugorje"}
 ]}
