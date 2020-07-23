@@ -25,7 +25,13 @@
 ]}
 },
 
-{"country":{"name":"Slovenia","img":"sl.png","fl":"sl",
+{"country":{"name":"Albania","img":"al.png","fl":"al",
+"cities":[
+{"name":"Most of the Cities"}
+]}
+},
+
+{"country":{"name":"Slovenia","img":"sl.png","fl":"si",
 "cities":[
 {"name":"Ljubljana"}
 ]}
@@ -77,19 +83,31 @@
 ]}
 },
 
-{"country":{"name":"Serbia","img":"sr.png","fl":"sr",
+{"country":{"name":"Serbia","img":"sr.png","fl":"rs",
 "cities":[
 {"name":"Belgrade"},
 {"name":"Novi Sad"}
 ]}
 },
 
-{"country":{"name":"Kosovo","img":"ks.png","fl":"ks",
+{"country":{"name":"Kosovo","img":"ks.png","fl":"xk",
 "cities":[
 {"name":"Pristina"},
 {"name":"Prizren"},
 {"name":"Peje"},
 {"name":"Boge"}
+]}
+},
+
+{"country":{"name":"Vatican City","img":"va.png","fl":"va",
+"cities":[
+{"name":"Vatican City"}
+]}
+},
+
+{"country":{"name":"Bosnia & Herzegovina","img":"ba.png","fl":"ba",
+"cities":[
+{"name":"Medugorje"}
 ]}
 }
 
