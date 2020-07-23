@@ -23,6 +23,20 @@
 "cities":[
 {"name":"Munich"}
 ]}
+},
+
+{"country":{"name":"Slovenia","img":"sl.png","fl":"sl",
+"cities":[
+{"name":"Ljubljana"}
+]}
+},
+
+{"country":{"name":"Croatia","img":"hr.png","fl":"hr",
+"cities":[
+{"name":"Dubrovnik"},
+{"name":"Split"},
+{"name":"Zagreb"}
+]}
 }
 
 ]
