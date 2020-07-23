@@ -10,7 +10,12 @@
 "country":{"name":"Italy","img":"it.png","fl":"it",
 "cities":[
 {"name":"Rome"},
-{"name":"Turin"}
+{"name":"Turin"},
+{"name":"Verona"},
+{"name":"Venice"},
+{"name":"Padua"},
+{"name":"Pisa"},
+{"name":"Firenze"}
 ]}
 },
 
