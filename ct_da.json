@@ -21,7 +21,8 @@
 
 {"country":{"name":"Germany","img":"de.png","fl":"de",
 "cities":[
-{"name":"Munich"}
+{"name":"Munich"},
+{"name":"Augsburg"}
 ]}
 },
 
