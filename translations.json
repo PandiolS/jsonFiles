@@ -1,0 +1,390 @@
+{
+    "headerMenu":{
+        "purchase": "Purchase",
+        "sales": "Sales",
+        "production": "Production",
+        "controll": "Control",
+        "settings": "Settings"
+    },
+
+    "pageTitle": {
+        "dashboard" : "Dashboard",
+        "standardSales" : "Standard Sales",
+        "salesCosts" : "Sales Costs",
+        "materialsPurchase" : "Materials Purchase",
+        "outsourcingPurchase" : "Outsourcing Purchase",
+        "priceAndProfitability" : "Price And Profitability",
+        "finishedGoods" : "Finished Goods",
+        "contributionMargin" : "Contribution Margin",
+        "configurations" : "Configurations",
+        "pageNotFound" : "Page not found",
+        "notAuthorized" : "Not Authorized",
+        "weeond" : "WeeonD"
+    },
+
+    "filter": {
+        "filters": "Filters",
+        "hide_filters" : "Hide Filters",
+        "show_filters" : "Show Filters",
+        "market" : "Market",
+        "customer" : "Customer",
+        "product_line" : "Product Line",
+        "product" : "Product",
+        "customer_type" : "Customer Type",
+        "purchase_line" : "Purchase Line",
+        "raw_material" : "Raw Material",
+        "op_component" : "OP Component",
+        "phase" : "Phase",
+        "sales_channel": "Sales Channel"
+
+    },
+
+    "groupBy":{
+        "market": "Market",
+        "customer": "Customer",
+        "product": "Product",
+        "product_line": "Product Line",
+        "sales_channel": "Sales Channel",
+        "raw_material": "Raw Material",
+        "purchase_line": "Purchase Line",
+        "op_component": "OP Component"
+    },
+
+    "buttons": {
+        "add": "Add",
+        "save" : "Save",
+        "cancel" : "Cancel",
+        "create": "Create",
+        "update": "Update",
+        "consolidate": "Consolidate",
+        "delete": "Delete",
+        "open": "Open",
+        "close": "Close",
+        "active": "Active",
+        "inactive": "Inactive",
+        "pending": "Pending",
+        "clear": "Clear",
+        "filter": "Filter",
+        "add_simulation": "Add Simulation",
+        "new_record": "New Record",
+        "reset_prices": "Reset Prices",
+        "reset_quantity": "Reset Quantity",
+        "reset_discount": "Reset Discount",
+        "reset_desired_margin": "Reset Desired Margin",
+        "reset_data": "Reset All Data",
+        "reset_commission": "Reset Commission",
+        "reset_bonus": "Reset Bonus",
+        "reset_transport": "Reset Transport",
+        "update_table": "Update Table",
+        "consolida_costs": "Consolidate Acquired Costs",
+        "save_close": "Save and Close",
+        "select": "Select"
+
+    },
+
+    "alerts":{
+        "operation_success": "✔️ Operation was successful!",
+        "operation_failed": "❌ Operation failed",
+        "set_simulation_success": "✔️ Simulation was set successfully!",
+        "set_simulation_error": "❌ Setting simulation failed",
+        "add_simulation_success": "✔️ Simulation was added successfully!",
+        "add_simulation_error": "❌ Error when trying to add simulation",
+        "consolidate_simulation_success": "✔️ Simulation was consolidated successfully!",
+        "consolidate_simulation_error": "❌ Error when trying to consolidate simulation",
+        "update_simulation_success": "✔️ Simulation was updated successfully!",
+        "update_simulation_error": "❌ Error when trying to update simulation",
+        "remove_simulation_success": "✔️ Simulation was removed successfully!",
+        "remove_simulation_error": "❌ Error when trying to delete simulation",
+        "are_you_sure": "Are you sure?",
+        "consolidated_simulation_postfix": " - Consolidated",
+        "new_simulation_text_warning": "We are going to create a new simulation named",
+        "new_simulation_from": "from",
+        "new_simulation_to": "to"
+
+    },
+
+    "dashboard": {
+        "simulations": "Simulations",
+        "sales": "SALES",
+        "purchases" : "PURCHASES",
+        "effect_on_production" : "EFFECTS ON PRODUCTION"
+
+    },
+
+    "addNewSalesModal": {
+        "pageTitle": "Add new record",
+        "description": "Some description goes here",
+        "create_new_customer" : "Creating a new customer",
+        "create_new_market" : "Creating a new market",
+        "user_data" : "Customer Data",
+        "dimensions" : "Dimensions",
+        "no_dimensions" : "No active dimensions",
+        "add_new_customer" : "Add new customer",
+        "add_new_market" : "Add new market",
+
+        "sales_channel": "Sales Channel",
+        "product": "Product",
+        "customer": "Customer",
+        "quantity": "Quantity",
+        "price": "Price",
+        "discount_percentage": "Discount Percentage",
+        "commission_percentage": "Commission Percentage",
+        "bonus_percentage": "Bonus Percentage",
+        "transport_percentage": "Transport Percentage",
+        "gross_turnover": "Gross Turnover",
+        "net_turnover": "Net Turnover",
+        "discount": "Discount",
+        "commission": "Commission",
+        "bonus": "Bonus",
+        "transport": "Transport",
+        "margin_commercial": "Margin Commercial",
+        "customer_name": "Customer Name",
+        "customer_type": "Customer Type",
+        "market": "Market",
+        "external": "External",
+        "internal": "Internal",
+        "market_name": "Market Name",
+        "ref_date": "Reference Date",
+        "error_msg":{
+            "product": "Please select Product",
+            "quantity": "Please enter quantity",
+            "customer": "Please select customer",
+            "market": "Please select market",
+            "price": "Please enter price",
+            "commission_perc": "Please enter commission percentage",
+            "bonus_perc": "Please enter bonus percentage",
+            "transport_perc": "Please enter transport percentage",
+            "discount_perc": "Please enter discount percentage",
+            "sales_channel": "Please select sales channel",
+            "customer_name": "Please enter customer name",
+            "market_name": "Please enter region name",
+            "reference_date": "Please select reference date"
+        }
+    },
+
+    "standartSales": {
+        "pageTitle": "Standard Sales",
+        "QTA_STORICA": "Historic Qty",
+        "MERCATO": "Market",
+        "VAR_QTA%": "% Qty Var.",
+        "NUOVO_QTA": "New Qty",
+        "QTA_SIM_STD": "Simul.Std Qty",
+        "PREZZO_STOR": "Historic Price",
+        "VAR_PREZZO%": "% Price Var.",
+        "PREZZO_NUOVO": "New Price",
+        "PREZZO_SIM": "Simul.Price",
+        "FATT_LORDO_ST": "Hist. Gross Turnover",
+        "FATT_LORDO_SIM": "Sim. Gross Turnover",
+        "SCONTI_STOR": "Hist. Discounts",
+        "SCONTI_STOR%": "Hist. Discounts %",
+        "SCONTI_NUOVO": "New Discount",
+        "SCONTI_SIM": "Sim. Discounts",
+        "SCONTI_SIM%": "Sim. Discounts %",
+        "FATT_NETTO_ST": "Hist. Net Turnover",
+        "FATT_NETTO_SIM": "Sim. Net Turnover",
+        "FILTRI":"FILTERS",
+        "VOLUMI":"VOLUMES",
+        "PREZZI":"PRICE",
+        "FATT_LORDO":"GROSS TURNOVER",
+        "SCONTI":"DISCOUNT",
+        "FATT_NETTO":"NET TURNOVER"
+    },
+
+    "salesCost": {
+        "pageTitle": "Sales Cost",
+        "FILTERS":"FILTERS",
+        "FATT_NETTO":"NET TURNOVER",
+        "COMMISSION":"COMMISSION",
+        "BONUS":"BONUS",
+        "TRASPORT":"TRANSPORT",
+        "MARGINE_LORDO":"GROSS MARGIN",
+        "MERCATO": "Market",
+        "FATT_NETTO_ST": "Hist. Net Turnover",
+        "FATT_NETTO_SIM": "Sim. Net Turnover",
+        "commissione_st": "Hist. Commissions",
+        "commissione_st%": "Hist. Commiss. %",
+        "new_commission": "New Commission",
+        "var_commisson%": "% Commiss. Variat.",
+        "commissione_sim": "Sim. Commissions",
+        "commissione_sim%": "Sim. Commiss. %",
+        "bonus_st": "Hist. Bonuses",
+        "bonus_st%": "Hist. Bonuses %",
+        "new_bonus": "New Bonus",
+        "var_bonus%": "% Bonuses Variat.",
+        "bonus_sim": "Sim. Bonuses",
+        "bonus_sim%": "Sim. Bonuses %",
+        "transport_st": "Hist. Transports",
+        "transport_st%": "Hist. Transports %",
+        "new_transport": "New Transport",
+        "var_transport%": " % Transports Variat.",
+        "transport_sim": "Sim. Transports",
+        "transport_sim%": "Sim. Transports %",
+        "MARG_COMM_ST" : "Hist. Sales Margin",
+        "MARG_COMM_SIM" : "Sim. Sales Margin"
+    },
+
+    "materialsPurchase": {
+        "pageTitle": "Materials Purchase",
+        "FILTRI":"FILTERS",
+        "VOLUMI":"VOLUMES",
+        "COSTO":"COST",
+        "purchase_line":"Purchase Line",
+        "QTA_STORICA": "Historic Qty",
+        "TOT_QTA_SIM": "Total Sim. Qty",
+        "coeff_utilizzato": "Used Coefficient",
+        "costo_unit_mp": "Unit cost of raw materials",
+        "var_costo_unit": "Unit cost Variat.",
+        "var_costo_unit%": "Unit cost Variat. %",
+        "sim_rm_cost": "Sim. Unit RM Costs",
+        "variazione_costo_unit%": "Unit cost Variation %",
+        "costo_tot_strico_rm": "Tot. Stor. RM Costs",
+        "costo_tot_sim_rm": "Total Sim. RM Costs"
+    },
+
+    "outsourcingPurchase": {
+        "pageTitle": "Outsourcing Purchase",
+        "FILTRI":"FILTERS",
+        "VOLUMI":"VOLUMES",
+        "COSTO":"COST",
+        "op_component":"OP Component",
+        "phase_description":"Phase Description",
+
+        "QTA_STORICA": "Historic Qty",
+        "TOT_QTA_SIM": "Total Sim. Qty",
+        "coeff_utilizzato": "Used Coefficient",
+        "costo_unit_mp": "Unit cost of raw materials",
+        "var_costo_unit": "Unit cost Variat.",
+        "var_costo_unit%": "Unit cost Variat. %",
+        "sim_rm_cost": "Sim. Unit RM Costs",
+        "variazione_costo_unit%": "Unit cost Variation %",
+        "costo_tot_strico_rm": "Tot. Stor. RM Costs",
+        "costo_tot_sim_rm": "Total Sim. RM Costs"
+    },
+
+    "finishedGoods": {
+        "pageTitle": "Finished Goods",
+        "FILTRI":"FILTERS",
+        "VOLUMI":"VOLUMES",
+        "COSTO_RM":"RM COST",
+        "COSTO_OP":"OP COST",
+        "COSTO_TOTALE":"TOTAL COST",
+
+        "MERCATO": "Market",
+        "QTA_STORICA": "Historic Qty",
+        "TOT_QTA_SIM": "Total Sim. Qty",
+        "costo_unit_mp": "Unit cost of raw materials",
+        "sim_rm_unit_cost": "Sim. Unit RM Costs",
+        "costo_tot_strico_rm": "Tot. Stor. RM Costs",
+        "costo_tot_sim_rm": "Total Sim. RM Costs",
+
+        "costo_unit_op": "Unit cost of OP",
+        "sim_op_unit_cost": "Sim. Unit OP Costs",
+        "costo_tot_strico_op": "Tot. Stor. OP Costs",
+        "costo_tot_sim_op": "Total Sim. OP Costs",
+
+        "unit_cost": "Unit Cost",
+        "sim_unit_cost": "Sim. Unit Cost",
+        "var_costo_tot_strico": "Tot. Stor. Costs Var",
+        "var_costo_tot_sim": "Total Sim. Costs Var"
+    },
+
+    "contributionMargin": {
+        "pageTitle": "Contribution Margin"
+    },
+
+    "priceProfitability": {
+        "PAGE_TITLE": "Price and Profitability",
+        "PREZZO_STOR": "Historic Price",
+        "UNIT_COST": "Unit Cost",
+        "VAR_PREZZO%": "% Price Var.",
+        "PREZZO_NUOVO": "New Price",
+        "PREZZO_SIM": "Simulated Price",
+        "QTA_STORICA": "Historic Qty",
+        "VAR_QTA%": "% Qty Var.",
+        "NUOVO_QTA": "New Qty",
+        "QTA_SIM_STD": "Simul.Std Qty",
+        "AGGIUNTO_STORICO": "Historic Added Value %",
+        "AGGIUNTO_ATTESO": "Expected Added Value %",
+        "AGGIUNTO_SIM": "Current Added Value %",
+
+        "FILTRI":"FILTERS",
+        "PREZZI":"PRICE",
+        "VOLUMI":"VOLUMES",
+        "VALORI_AGGIUNTI":"ADDED VALUES"
+    },
+
+    "configurations": {
+        "pageTitle": "Configurations Section",
+        "description" : "Something short and descriptive about the configuration section.",
+        "dimensions_config": "Dimensions Configurations",
+        "system_config" : "System Configurations",
+        "dimensions": {
+            "customer_dim": "Customer Dimensions",
+            "dim_name" : "Dimension Name",
+            "product_dim": "Product Dimensions"
+        },
+        "system":{
+            "sys_conf": "System Configurations"
+        }
+    },
+
+    "simulationModal":{
+        "add_simulation_title": "Add Simulation",
+        "update_simulation_title": "Update Simulation",
+        "consolidate_simulation_title": "Consolidate Simulation",
+        "sim_name": "Simulation Name",
+        "sim_description": "Simulation Description",
+        "copy_from_sim": "Copy From Simulation",
+        "sim_copy_required": "Simulation to start from is required",
+        "sim_required": "Simulation name is required",
+        "start_date_required": "Start Date is required",
+        "end_date_required": "End Date  is required",
+        "delete_simulation_title" : "Confirm Deleting Simulation",
+        "confirm_delete": "Are you sure you want to delete",
+        "sim_dates_title": "Simulations dates",
+        "sim_dates_selected" : "Selected",
+        "sim_dates_all" : "All",
+        "sim_dates_select" : "Select",
+        "start_date" : "Start Date",
+        "end_date" : "End Date"
+
+    },
+
+    "months":{
+        "January": "January",
+        "February": "February",
+        "March": "March",
+        "April": "April",
+        "May": "May",
+        "June": "June",
+        "July": "July",
+        "August": "August",
+        "September": "September",
+        "October": "October",
+        "November": "November",
+        "December ": "December"
+    },
+
+    "errorPages":{
+        "homepage": "Go to homepage", 
+        "401":{    
+            "title": "Oops! NOTHING FOR YOU HERE",
+            "message": "Sorry but you are authorized to access the page you are looking for."    
+        },
+        "404":{
+            "title": "Oops! This Page Could Not Be Found",
+            "message": "Sorry but the page you are looking for does not exist, have been removed, name changed or is temporarily unavailable"            
+        },
+        "general":{
+            "title": "Oops! SOMETHING WENT WRONG",
+            "message": "An unexpected error has occurred, please try again!"
+        },
+        "unauthorized":{
+            "title": "NOT AUTHORIZED",
+            "title2": "Oops! NOTHING FOR YOU HERE",
+            "message": "Sorry but you are authorized to access the page you are looking for.",
+            "sign_out": "Sign out",
+            "or": "OR"
+        }
+    }
+}
