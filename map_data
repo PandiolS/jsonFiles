@@ -58,6 +58,10 @@
   "id": "NL",
   "fill": "#5bba57"
 },
+{
+  "id": "BE",
+  "fill": "#5bba57"
+},
 ],
-"data":[{"con":1, "cou":15, "cit":37 }]
+"data":[{"con":1, "cou":16, "cit":38 }]
 }
