@@ -75,6 +75,12 @@
 {"name":"Zaandam"}
 ]}
 },
+  
+{"country":{"name":"Belgium","img":"be.png","fl":"be",
+"cities":[
+{"name":"Brussels"}
+]}
+},
 
 {"country":{"name":"Romania","img":"ro.png","fl":"ro",
 "cities":[
