@@ -124,7 +124,8 @@
 
 {"country":{"name":"Turkyie","img":"tr.png","fl":"tr",
 "cities":[
-{"name":"Kemer"}
+{"name":"Kemer"},
+{"name":"Antalya"}
 ]}
 },
 
